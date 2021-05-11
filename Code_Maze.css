@@ -1,0 +1,48 @@
+body{
+	background-color: #63C5DA;
+}
+.description{
+	text-align: left;
+	padding-left: 70px;
+	font-family: "courier new", cursive;
+	font-color: #191970;
+	font-size: 1.5em;
+	letter-spacing: -2px;
+	word-spacing: -6px;
+	width:1350px;
+
+}
+.one,.two,.three{
+  display: flex;
+  float: right;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  padding-left: 20px;
+}
+
+video{
+	display: block;
+	margin: 0 auto;
+}
+/* width */
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background: #87CEEB;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background:  #191970;
+}
+
+/* Handle on hover */
+
+}
+/*img{
+	padding-top: 20px;
+	padding-bottom: 20px;
+}*/
